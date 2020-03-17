@@ -246,7 +246,7 @@ main {
 }
 
 .offers-box-image_1:hover {
-	content: url('https://github.com/dm-mykhalenych/example-page/blob/master/image/offers/hover2.png');
+	content: url('../image/offers/hover2.png');
 	width: 60%;
 	height: 60%;
 	cursor: pointer;
